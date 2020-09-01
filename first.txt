@@ -2,4 +2,4 @@ gitの練習を始めます。
 基本的なワークフローを始めます。
 .git add
 .git commit
-.git remove
+.git status
